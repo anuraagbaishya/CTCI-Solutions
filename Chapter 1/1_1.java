@@ -1,3 +1,9 @@
+/*
+
+	Write program to check if string has unique characters
+
+*/
+
 import java.util.Scanner;
 class UniqueString{
 

@@ -1,3 +1,9 @@
+/*
+
+	Write a method to check if one string is permutation of the other
+
+*/
+
 import java.util.*;
 class CheckPermutation{
 
